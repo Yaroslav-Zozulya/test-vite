@@ -1,0 +1,13 @@
+header {
+  background-color: green;
+}
+
+a {
+  color: teal;
+  font-style: 30px;
+}
+
+ul {
+  display: flex;
+  gap: 10px;
+}
